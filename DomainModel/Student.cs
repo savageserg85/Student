@@ -28,10 +28,10 @@ namespace DomainModel
         public int GraduateInstitutionYear { get; set; }
 
         public string Adress { get; set; }
-        /// <summary>
-        ////приказ о зачислении
-        /// </summary>
-        public Order IncomeOrder { get; set; }
+        ///// <summary>
+        //////приказ о зачислении
+        ///// </summary>
+        //public Order IncomeOrder { get; set; }
 
         /// <summary>
         /// со вступительными экзаменами
